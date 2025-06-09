@@ -1,0 +1,22 @@
+0 0 Alice 0 10/10/2012 Africa 291321234 22432.52 saving
+
+1 1 Michel 2 2/5/2001 Portugal 123543455 10023.23 fixed01
+
+2 1 Michel 123 10/10/2020 UK 1234123 12345.30 saving
+
+4 1 Michel 63 4/5/2025 ps 05527895662 8.00 saving
+
+6 1 Michel 77 15/2/2003 ps 052368612 5000.00 current
+
+7 1 Michel 55 15/2/1203 ps 052455 787.00 saving
+
+8 0 Alice 12 10/10/2005 psa 0523532 1023.20 saving
+
+9 0 Alice 14 15/5/2007 usa 450205 897.00 current
+
+10 2 tala 88 15/8/1999 ps 05262 77.00 saving
+
+11 2 tala 18 15/8/1999 ps 05262 7.00 saving
+
+12 2 tala 21 15/8/1999 ps 05262 177.00 saving
+
